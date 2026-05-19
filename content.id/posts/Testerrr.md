@@ -1,6 +1,6 @@
 ---
 title: Menjelang akhir autumn
-translationKey: post-first-content
+translationKey: end-of-autumn
 created: 2026-05-19T21:25:48+10:00
 modified: 2026-05-19T21:32:33+10:00
 tags: [cerita, blog, sydney, website]
