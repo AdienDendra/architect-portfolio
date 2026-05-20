@@ -23,7 +23,6 @@ enableRobotsTXT = true
     ShowPostNavLinks = true
     ShowToc= true
     TocOpen= false
-    showLastmod = true
     dateFormat = "2 Jan 2006, 15:04"
     author = "Adien Dendra"
     showFullTextInList = false
